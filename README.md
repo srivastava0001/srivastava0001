@@ -27,8 +27,7 @@ You can click the Preview link to take a look at your changes.
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | C | Python    
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; SQLite | Firebase 
+- 🌐 &nbsp; HTML | CSS | Django | Flask | SQL | Bootstrap 
 - 🔧 &nbsp; Sublime Text | Visual Studio code | Git
 - 🖥 &nbsp; DaVinci Resolve | Shotcut | Photoshop  
 
